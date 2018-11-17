@@ -65,7 +65,7 @@ plt.figure(figsize = (12, 8))
 plt.plot(forecast_prediction, linewidth = 2.5, alpha = 0.8, color = 'r')
 plt.xlabel('Days')
 plt.ylabel('Price [$]')
-plt.title('30 Day LTC Forecast 93% Confidence Linear Regression')
+plt.title('10 Day LTC Forecast 93% Confidence Linear Regression')
 plt.grid()
 plt.show()
 
